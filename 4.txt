@@ -3,7 +3,6 @@
 #support-url: https://t.me/OnionLegion
 #profile-web-page-url: https://onionlegion.github.io
 #announce: base64: 0KLQtdC70LXQs9GA0LDQvDogQE9uaW9uTGVnaW9uIC0g0JvRg9GH0YjQsNGPINC60L7QvNCw0L3QtNCwCvCfj7PvuI8gLSDQodC10YDQstC10YDQsCDQtNC70Y8g0L7QsdGF0L7QtNCwINCx0LvQvtC60LjRgNC+0LLQutC4
-https://onionlegion.github.io:443
 hysteria2://3f63c86c-ac4a-4900-85cf-4fedf93c2ca5@91.240.86.70:22443/?insecure=1#1.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%D0%BE%D0%B1%D1%85%D0%BE%D0%B4%20
 hysteria2://3f63c86c-ac4a-4900-85cf-4fedf93c2ca5@91.240.86.70:24443/?sni=hy.quattro-tech.ru#2.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%D0%BE%D0%B1%D1%85%D0%BE%D0%B4
 hysteria2://3f63c86c-ac4a-4900-85cf-4fedf93c2ca5@91.240.86.70:24443/?sni=hy.quattro-tech.ru#%20%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%D0%BE%D0%B1%D1%85%D0%BE%D0%B4%20%D1%85%D0%B7%201
